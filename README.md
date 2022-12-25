@@ -1,4 +1,4 @@
-- 👋# 💫 About Me:
+# 💫 About Me:
 👋 Hello I'm Yael Alfred <br>☕️Coffee addict<br>🧑🏽‍💻Java,Php,Html,Css developer #HelloWorld<br>✍️Jss, Ia discovery in progress<br>👾 01000001 01100100 01100100 01101001 01100011 01110100 01100001 01110101 01111000 01101010 01100101 01110101 01111000 01110110 01101001 01100100 11000011 10101001 01101111 01110011 <br>
 
 
@@ -21,13 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AlfredYael01&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> Hi, I’m @AlfredYael01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AlfredYael01/AlfredYael01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
