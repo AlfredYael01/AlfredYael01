@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello I'm Yael Alfred <br>☕️Coffee addict<br>🧑🏽‍💻Java,Php,Html,Css developer #HelloWorld<br>✍️Jss, Artificial Intelligence discovery in progress<br>👾 01000001 01100100 01100100 01101001 01100011 01110100 01100001 01110101 01111000 01101010 01100101 01110101 01111000 01110110 01101001 01100100 11000011 10101001 01101111 01110011 <br>
+👋 Hello I'm Yael Alfred <br>☕️Coffee addict<br>🧑🏽‍💻Java,Php,Html,Css,Js,SQL developer #HelloWorld<br>✍️Jss, Artificial Intelligence discovery in progress<br>👾 01000001 01100100 01100100 01101001 01100011 01110100 01100001 01110101 01111000 01101010 01100101 01110101 01111000 01110110 01101001 01100100 11000011 10101001 01101111 01110011 <br>
 
 
 ## 🌐 Socials:
